@@ -1,0 +1,30 @@
+.subHead_Wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 0px;
+}
+
+.logo {
+}
+
+@media (max-width: 575px) {
+  .logo {
+    width: 110px;
+    height: auto;
+  }
+  .sub-img {
+    width: 75px;
+    height: auto;
+  }
+}
+@media (max-width: 425px) {
+  .logo {
+    width: 106.667px;
+    height: 20px;
+  }
+  .sub-img {
+    width: 44px;
+    height: 16px;
+  }
+}

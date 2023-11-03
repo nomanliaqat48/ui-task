@@ -1,0 +1,48 @@
+.clarifion_Card {
+  padding: 40px;
+  border-radius: 10px;
+  background: #fafafa;
+  border: none !important;
+  margin-top: 40px;
+  @media (max-width: 575px) {
+    padding: 12px;
+    margin-top: 0;
+    .clarifion_imageCard_Wrapper {
+      img {
+        margin: 24px 0;
+      }
+    }
+  }
+}
+h2 {
+  margin: 0;
+  @media (max-width: 575px) {
+    font-size: 24px;
+}
+  .one_Time,
+  .each {
+    color: #2c7ef8;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: Manrope;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    /* 44.8px */
+    text-transform: capitalize;
+    @media (max-width: 575px) {
+        font-size: 24px;
+    }
+  }
+
+  color: #000;
+  leading-trim: both;
+  text-edge: cap;
+  font-family: Manrope;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  text-transform: capitalize;
+}
