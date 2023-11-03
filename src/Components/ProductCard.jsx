@@ -2,7 +2,7 @@ import { Button } from "react-bootstrap";
 import "./ProductCard.scss";
 import ProductImage from "../assets/image-removebg.svg";
 import Stars from "../assets/Stars.svg";
-import Dot from "../assets/dot.svg";
+import Dot from "../assets/Dot.svg";
 import Tick from "../assets/tick-circle-one.svg";
 import Save from "../assets/save.svg";
 import Line from "../assets/line-btn.svg";
