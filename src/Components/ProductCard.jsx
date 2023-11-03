@@ -5,7 +5,7 @@ import Stars from "../assets/Stars.svg";
 import Dot from "../assets/Dot.svg";
 import Tick from "../assets/tick-circle-one.svg";
 import Save from "../assets/save.svg";
-import Line from "../assets/line-btn.svg";
+import Line from "../assets/lineBtn.svg";
 import Lock from "../assets/lock-black.svg";
 import Visa from "../assets/visa.svg";
 import Shop from "../assets/shop-pay.svg";
